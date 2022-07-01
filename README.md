@@ -20,6 +20,7 @@ My own plan is to make it work from see below
 - [ ] ipadOS 13  
 - [ ] ipadOS 14  
 - [ ] ipadOS 15
+- [ ] ipadOS 16
 
 my plain is to make a working verson of SpinSettings for ios 13.0 to 14.?.?
 
@@ -145,8 +146,8 @@ Notes:
 
 # Supported Devices iPadOS 16.0 to iOS 16.0 
 |iPadOS|iPad Mini 5|iPad Air 3|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|iPad 7|iPad 8|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| iPadOS 16.0|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iPadOS 16.0|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
 ----------------------------------------------------------------------------------------------------------------------------
 
 
