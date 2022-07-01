@@ -26,7 +26,7 @@ my plain is to make a working verson of SpinSettings for ios 13.0 to 14.?.?
 
 why am i putting is on github:
 
-for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved.
+for one resaon only extra backup i have the project on my Mac Mini 2012,2014, MacBook Pro M1 Max my own TrueNas server, and github so if any one of them gets cruppted i have backup saved.
 
 My own road map
 - [x] Step 1 = Get read me finished 
