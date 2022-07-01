@@ -145,10 +145,12 @@ Notes:
 | iPadOS 15.6|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
 
 # Supported Devices iPadOS 16.0 to iOS 16.0 
-|iPadOS|iPad Mini 5|iPad Air 3|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|iPad 7|iPad 8|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iPadOS 16.0|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+|iPadOS|iPad Pro (1st gen) 12.9-inch|iPad Pro (1st gen) 9.7-inch|iPad (5th gen)|iPad Pro (2nd gen) 12.9-inch|iPad Pro (2nd gen) 10.5-inch|iPad (6th gen)|iPad Pro (3rd gen)|iPad Mini (5th gen)|iPad Air (3rd gen)|iPad (7th gen)|iPad Pro (4th gen)|iPad (8th gen)|iPad Air (4th gen)|iPad Pro (5th gen)|iPad (9th gen)|iPad Mini (6th gen)|iPad Air (5th gen)|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iPadOS 16.0|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
 ----------------------------------------------------------------------------------------------------------------------------
+ 
+
 
 
 I would like to say a big thank you to the people that have helped me make this happen:
