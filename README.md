@@ -106,17 +106,48 @@ Notes:
 |iPadOS 13.5|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
 |iPadOS 13.5.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
 |iPadOS 13.6|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+|iPadOS 13.6.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+|iPadOS 13.7|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
 
-# Supported Devices iPadOS 14.0 to iOS 14.0 
+# Supported Devices iPadOS 14.0 to iOS 14.8 
 |iPadOS|iPad Mini 4|iPad Mini 5|iPad Air 2|iPad Air 3|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|iPad 7|iPad 8|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iPadOS 14.0 |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| iPadOS 14.0|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 14.0.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 14.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 14.2|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 14.3|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 14.4|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 14.4.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 14.4.2|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 14.5|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 14.5.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 14.6|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 14.7|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 14.7.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 14.8|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
 
-# Supported Devices iPadOS 15.0 to iOS 15.0 
-|iPadOS|iPad Mini 4|iPad Mini 5|iPad Mini 6|iPad Air 2|iPad Air 3|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|iPad 7|iPad 8|iPad 9|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iPadOS 15.0 Beta 3|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
------------------------------------------------------------------------------------------------------------------------------
+# Supported Devices iPadOS 15.0 to iOS 15.5 
+|iPadOS|iPad Mini 4|iPad Mini 5|iPad Air 2|iPad Air 3|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|iPad 7|iPad 8|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| iPadOS 15.0|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 15.0.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 15.0.2|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 15.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 15.2|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 15.2.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 15.3|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 15.3.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 15.4|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 15.4.1|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 15.5|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+| iPadOS 15.6|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+
+# Supported Devices iPadOS 16.0 to iOS 16.0 
+|iPadOS|iPad Mini 5|iPad Air 3|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|iPad 7|iPad 8|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| iPadOS 16.0|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
+----------------------------------------------------------------------------------------------------------------------------
 
 
 I would like to say a big thank you to the people that have helped me make this happen:
