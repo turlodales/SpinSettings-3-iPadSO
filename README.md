@@ -40,20 +40,28 @@ My own road map
 # Not Supported Devices Yet above iOS 13
 | Device        | Staus   | 
 |---------|----------|
-|  iPad Mini 4 | Planned |
-|  iPad Mini 5 | Planned |
-|  iPad Air 2    | Planned |
-|  iPad Air 3  | Planned |
+|  iPad Mini 4 (4th gen)| Planned |
+|  iPad Mini 5 (5th gen)| Planned |
+|  iPad Mini 6 (6th gen)| Planned |
+|  iPad Air 2 (2nd gen) | Planned |
+|  iPad Air 3 (3rd gen) | Planned |
+|  iPad Air 4 (4th gen) | Planned |
+|  iPad Air 5 (5th gen) | Planned |
+|  iPad 5 (5th gen) 2017| Planned |
+|  iPad 6 (6th Gen) 2018| Planned |
+|  iPad 7 (7th Gen) 2019| Planned |
+|  iPad 8 (8th Gen) 2020| Planned |
+|  iPad 9 (9th Gen) 2021| Planned |
 |  iPad Pro 12.9-inch (1st Gen)| Planned |
 |  iPad Pro 9.7-inch  (1st Gen)| Planned |
-|  iPad 5 2017          (5th Gen)| Planned |
 |  iPad Pro 12.9-inch (2nd Gen)| Planned |
 |  iPad Pro 10.5-inch (2nd Gen)| Planned |
-|  iPad 6 2018          (6th Gen)| Planned |
 |  iPad Pro 11-inch   (3rd Gen)| Planned |
 |  iPad Pro 12.9-inch (3rd Gen)| Planned |
-|  iPad 7 2019| Planned |
-
+|  iPad Pro 11-inch   (4th gen)| Planned |
+|  iPad Pro 12.9-inch (4th gen)| Planned |
+|  iPad Pro 11-inch   (5th gen)| Planned |
+|  iPad Pro 12.9-inch (5th gen)| Planned |
 
 Notes: 
 
@@ -75,18 +83,25 @@ Notes:
 # Not Supported 64bit Devices  (MAY Work But NOT Tested as i dont have yet)
 | Device | Supports |
 |---------|----------|
-| iPad Air 3 | Planned |
-| iPad Mini 4 | Planned |
-| iPad Mini 5 | Planned |
-| iPad Mini 6 | Planned |
-| iPad 7 | Planned |
-| iPad 8 | Planned |
-| iPad 9 | Planned |
-| iPad Pro (9.7 inch 1st gen | Planned |
-| iPad Pro (12.9 inch) 2nd gen|Planned|
-| iPad Pro (10.5 inch) 2nd gen| Planned |
-| iPad Pro 11-inch (3rd Gen| Planned |
-
+|  iPad Mini 4 (4th gen)| Planned |
+|  iPad Mini 5 (5th gen)| Planned |
+|  iPad Mini 6 (6th gen)| Planned |
+|  iPad Air 3 (3rd gen) | Planned |
+|  iPad Air 4 (4th gen) | Planned |
+|  iPad Air 5 (5th gen) | Planned |
+|  iPad 5 (5th gen) 2017| Planned |
+|  iPad 6 (6th Gen) 2018| Planned |
+|  iPad 7 (7th Gen) 2019| Planned |
+|  iPad 8 (8th Gen) 2020| Planned |
+|  iPad 9 (9th Gen) 2021| Planned |
+|  iPad Pro 9.7-inch  (1st Gen)| Planned |
+|  iPad Pro 12.9-inch (2nd Gen)| Planned |
+|  iPad Pro 10.5-inch (2nd Gen)| Planned |
+|  iPad Pro 11-inch   (3rd Gen)| Planned |
+|  iPad Pro 11-inch   (4th gen)| Planned |
+|  iPad Pro 12.9-inch (4th gen)| Planned |
+|  iPad Pro 11-inch   (5th gen)| Planned |
+|  iPad Pro 12.9-inch (5th gen)| Planned |
 
 
 # Supported Devices iPadOS 13.0 to iOS 13.6 
@@ -150,9 +165,6 @@ Notes:
 |iPadOS 16.0|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|
 ----------------------------------------------------------------------------------------------------------------------------
  
-
-
-
 I would like to say a big thank you to the people that have helped me make this happen:
 
 Josh Doctors the person that makes this tweak in the first place
@@ -161,8 +173,10 @@ more to follow if I get help
 
 myself to prove that even someone like me with dyslexia can do something to help the jailbreaking community
 
-FreeNAS OS for my Home Server's
+TrueNAS OS for my Home Server's
 
 Youtube for the vid's that have helped me do this I will list them all soon more to follow when I have spoken to them if I can post they vids
 
-In case anyone is wondering I started using jailbroken devices from the iPhone original 2G,3GS,4S,5S,6S+,8+ I do like the S models. I only have 2 iPads Air 2 and Pro 12.9. I have the Apple TV 3 and 4 sadly both not jailbroken yet and I have the Apple Watch 1st gen. I now have the iPhone 5C I got of eBay on 10.3.3 and got my iPhone 6 off my mate sadly I don't have any of the SHSH2 blobs saved I just want to help put something back into the community.
+In case anyone is wondering I started using jailbroken devices from the iPhone original 2G,3GS,4S,5S,6S+,8+,11 Pro Max I do like the S models. I only have 2 iPads Air 2 and Pro 12.9 (1st gen) & Pro 12.9 (3rd gen). I have the Apple TV 3 non JB and Apple TV 4 jailbroken and I have the Apple Watch 1st gen & 6th gen. I now have the iPhone 5C I got of eBay on 10.3.3 and got my iPhone 6 off my mate sadly I don't have any of the SHSH2 blobs saved I just want to help put something back into the community.
+
+for my full list of devices https://github.com/turlodales/my-own-devices (Updated Regularly)
